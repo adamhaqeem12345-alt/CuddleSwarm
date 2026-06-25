@@ -1,0 +1,6 @@
+{
+  "name": "Cuddleia CLI",
+  "description": "An interactive, multi-agent CLI workspace with multiple MCP server connectors, automated corporate hierarchy routing (CTO, Dev, QA), and permanent MemoryCore.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
